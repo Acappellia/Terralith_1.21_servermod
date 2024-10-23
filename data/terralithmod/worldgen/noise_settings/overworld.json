@@ -5445,7 +5445,7 @@
                                                         {
                                                             "type": "minecraft:condition",
                                                             "if_true": {
-                                                                "type": "terralithmod:temperature"
+                                                                "type": "minecraft:temperature"
                                                             },
                                                             "then_run": {
                                                                 "type": "minecraft:block",

@@ -1,5 +1,5 @@
 {
-  "type": "terralithmod:forest_rock",
+  "type": "minecraft:forest_rock",
   "config": {
     "state": {
       "Name": "minecraft:mossy_cobblestone"

@@ -22,7 +22,7 @@
                   "derivative": 0,
                   "location": -0.08,
                   "value": {
-                    "coordinate": "overworld/temperature",
+                    "coordinate": "terralithmod:overworld/temperature",
                     "points": [
                       {
                         "derivative": 10,

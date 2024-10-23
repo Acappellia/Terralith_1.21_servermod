@@ -1,5 +1,5 @@
 {
-    "type": "terralithmod:canyon",
+    "type": "minecraft:canyon",
     "config": {
         "probability": 0.003,
         "y": {

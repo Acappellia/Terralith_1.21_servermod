@@ -5,7 +5,7 @@
     "argument": {
       "type": "minecraft:spline",
       "spline": {
-        "coordinate": "overworld/temperature",
+        "coordinate": "terralithmod:overworld/temperature",
         "points": [
           {
             "derivative": 0,

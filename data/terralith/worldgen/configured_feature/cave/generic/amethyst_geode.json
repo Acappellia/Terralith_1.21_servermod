@@ -697,7 +697,7 @@
             }
         ],
         "default": {
-            "feature": "terralithmod:amethyst_geode",
+            "feature": "minecraft:amethyst_geode",
             "placement": [
                 {
                     "type": "minecraft:random_offset",

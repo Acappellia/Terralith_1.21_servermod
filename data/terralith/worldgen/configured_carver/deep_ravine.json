@@ -1,5 +1,5 @@
 {
-    "type": "terralithmod:canyon",
+    "type": "minecraft:canyon",
     "config": {
         "aquifers_enabled": true,
         "lava_level": {

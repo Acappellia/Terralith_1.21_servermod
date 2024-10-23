@@ -23,7 +23,7 @@
               "derivative": 0,
               "location": -0.0865,
               "value": {
-                "coordinate": "overworld/vegetation",
+                "coordinate": "terralithmod:overworld/vegetation",
                 "points": [
                   {
                     "derivative": 0,
@@ -34,7 +34,7 @@
                     "derivative": 0,
                     "location": 0.0,
                     "value": {
-                      "coordinate": "overworld/temperature",
+                      "coordinate": "terralithmod:overworld/temperature",
                       "points": [
                         {
                           "derivative": 0,
