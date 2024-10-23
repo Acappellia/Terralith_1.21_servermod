@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:noise",
+  "noise": "terralithmod:aquifer_lava",
+  "xz_scale": 1,
+  "y_scale": 1
+}

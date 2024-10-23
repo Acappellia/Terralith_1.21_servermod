@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "terralithmod:lush_caves",
+        "terralith:cave/underground_jungle"
+    ]
+}

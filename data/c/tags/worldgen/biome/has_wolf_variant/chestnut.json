@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "terralithmod:old_growth_spruce_taiga",
+        "terralith:forested_highlands",
+        "terralith:shield"
+    ]
+}

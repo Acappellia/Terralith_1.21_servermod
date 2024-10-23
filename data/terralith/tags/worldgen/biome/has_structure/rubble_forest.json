@@ -1,0 +1,19 @@
+{
+    "values": [
+        "terralithmod:birch_forest",
+        "terralithmod:dark_forest",
+        "terralithmod:flower_forest",
+        "terralithmod:forest",
+        "terralithmod:old_growth_birch_forest",
+        "minecraft:windswept_forest",
+        "terralith:alpine_highlands",
+        "terralith:brushland",
+        "terralith:cloud_forest",
+        "terralith:forested_highlands",
+        "terralith:lavender_forest",
+        "terralith:moonlight_grove",
+        "terralith:temperate_highlands",
+        "terralith:valley_clearing",
+        "terralith:yosemite_lowlands"
+    ]
+}
